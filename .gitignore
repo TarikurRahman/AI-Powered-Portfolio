@@ -26,3 +26,4 @@ dist-ssr
 # Next.js
 .next/
 out/
+*.tsbuildinfo
