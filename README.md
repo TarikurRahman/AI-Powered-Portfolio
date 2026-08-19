@@ -1,7 +1,3 @@
-<p align="center">
-	<img src="public/Nafij-Islam.png" alt="Tarikur Rahman" width="180" />
-</p>
-
 <h1 align="center">Tarikur Rahman | AI-Powered Portfolio</h1>
 
 <p align="center">
