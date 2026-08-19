@@ -1,0 +1,131 @@
+{
+  "personal": {
+    "name": "Tarikur Rahman",
+    "nickname": "Tarikur",
+    "title": "Frontend Developer, Backend Developer & Shopify Expert",
+    "location": "Dhaka, Bangladesh",
+    "experience": "Working actively as a Frontend & Backend Developer and Shopify Expert since 2024. Skilled in modern web ecosystems and no-code/low-code tools like Bubble.io.",
+    "about": "Tarikur is a passionate Developer and Shopify Partner who crafts highly performant, custom-tailored websites and e-commerce stores. He is dedicated to building clean, pixel-perfect user interfaces, custom Shopify Liquid templates, robust web applications, and fast Bubble.io mobile & web platforms. He focuses on client satisfaction, performance optimization, and clean typography.",
+    "stats": {
+      "projectsCompleted": "50+",
+      "happyClients": "40+",
+      "cupsOfCoffee": "1000+",
+      "dedication": "100%"
+    }
+  },
+  "skills": [
+    { "name": "Frontend Development", "level": 95, "details": "React, Next.js, HTML5, CSS3, Tailwind CSS, TypeScript" },
+    { "name": "React / Next.js", "level": 90, "details": "App Router, Page Router, SSR, SSG, State Management, API integration" },
+    { "name": "Responsive Design", "level": 95, "details": "Mobile-first, fluid layouts, grid/flexbox, cross-browser compatibility" },
+    { "name": "JavaScript / TypeScript", "level": 80, "details": "ES6+, OOP, asynchronous programming, typed code bases" },
+    { "name": "Shopify Development", "level": 95, "details": "Custom Liquid theme dev, app integrations, store setups, customization" },
+    { "name": "Bubble.io Development", "level": 95, "details": "No-code/low-code full-stack web and mobile apps, databases, API connectors" },
+    { "name": "Backend Development", "level": 75, "details": "Node.js, Express, databases, REST APIs" },
+    { "name": "Git & GitHub", "level": 90, "details": "Version control, collaboration, branches, pull requests" }
+  ],
+  "services": [
+    {
+      "title": "Frontend Development",
+      "description": "Building modern, responsive websites using React, Next.js, and cutting-edge frontend technologies.",
+      "features": ["React & Next.js", "TypeScript", "Tailwind CSS", "Performance Optimization"]
+    },
+    {
+      "title": "Shopify Development",
+      "description": "Custom Shopify themes, apps, and integrations to power your e-commerce business.",
+      "features": ["Custom Themes", "Liquid Development", "App Integration", "Store Setup"]
+    },
+    {
+      "title": "UI/UX Implementation",
+      "description": "Translating designs (e.g. Figma) into pixel-perfect, accessible, and interactive user interfaces.",
+      "features": ["Figma to Code", "Responsive Design", "Animations", "Accessibility"]
+    },
+    {
+      "title": "Web Performance",
+      "description": "Optimizing websites for speed, SEO, and exceptional user experience across all devices.",
+      "features": ["Core Web Vitals", "SEO Optimization", "Code Splitting", "Image Optimization"]
+    },
+    {
+      "title": "Bubble Web & App Performance",
+      "description": "Optimizing websites and mobile apps built on Bubble.io for blazing-fast speed, SEO, smooth performance, and exceptional user experience.",
+      "features": ["Core Web Vitals", "SEO Optimization", "App Performance", "Bubble Database & API Tuning"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Move Store",
+      "description": "A custom-designed, premium Shopify e-commerce store built for Move Store in the Netherlands, showcasing product search, fluid checkouts, and custom Liquid widgets.",
+      "tags": ["Shopify", "Liquid", "Theme Dev", "Tailwind", "UX"],
+      "liveUrl": "https://www.movestore.nl/",
+      "githubUrl": "#"
+    },
+    {
+      "title": "Timeless Media Box",
+      "description": "A custom-designed, premium Shopify store designed for Timeless Media Box, featuring elegant product showcases, smooth transitions, and custom Liquid integration.",
+      "tags": ["Shopify", "Liquid", "Theme Dev", "Tailwind", "UX"],
+      "liveUrl": "https://timelessmediabox.com/",
+      "githubUrl": "#"
+    },
+    {
+      "title": "The Ball Hall",
+      "description": "A high-performance custom web platform built on Bubble.io for sports facility scheduling, booking management, and interactive user dashboards.",
+      "tags": ["Bubble.io", "No-Code", "Web App", "UI/UX"],
+      "liveUrl": "https://theballhall.com/",
+      "githubUrl": "#"
+    },
+    {
+      "title": "Try Nurova",
+      "description": "A custom-designed, premium Shopify store built for Nurova, showcasing luxury branding, custom layouts, and custom Liquid theme development.",
+      "tags": ["Shopify", "Liquid", "Theme Dev", "Tailwind", "UX"],
+      "liveUrl": "https://trynurova.com/",
+      "githubUrl": "#"
+    },
+    {
+      "title": "Catch 'Em Claw Arcade",
+      "description": "A custom-designed, premium Shopify store for claw arcade machines featuring custom catalog navigation, collection grids, and responsive layouts.",
+      "tags": ["Shopify", "Liquid", "Theme Dev", "Custom UI", "UX"],
+      "liveUrl": "https://catchemclawarcade.com/",
+      "githubUrl": "#"
+    },
+    {
+      "title": "OneMat",
+      "description": "A custom-designed, premium Shopify store selling high-quality prayer mats with tailored collection layouts, smooth animations, and custom Liquid development.",
+      "tags": ["Shopify", "Liquid", "Theme Dev", "CSS", "UI/UX"],
+      "liveUrl": "https://onemat.world/",
+      "githubUrl": "#"
+    },
+    {
+      "title": "E-Commerce Store",
+      "description": "A modern E-Commerce store built with React and Tailwind CSS featuring dynamic state, Tailwind layout, and TanStack query integrations.",
+      "tags": ["HTML", "CSS", "JavaScript", "Tailwind", "TanStack"],
+      "liveUrl": "https://github.com",
+      "githubUrl": "https://github.com"
+    },
+    {
+      "title": "Quater Site",
+      "description": "A comprehensive analytics dashboard built with React and TypeScript.",
+      "tags": ["React", "TypeScript", "Tailwind"],
+      "liveUrl": "https://github.com",
+      "githubUrl": "https://github.com"
+    },
+    {
+      "title": "Fins Projects",
+      "description": "A creative portfolio for a photographer with stunning animations using GSAP and Framer Motion.",
+      "tags": ["Next.js", "Framer Motion", "GSAP"],
+      "liveUrl": "https://github.com",
+      "githubUrl": "https://github.com"
+    }
+  ],
+  "contact": {
+    "email": "tarikurrahman2008@gmail.com",
+    "phone": "+8801633003462",
+    "whatsapp": "https://wa.me/8801633003462",
+    "location": "Dhaka, Bangladesh",
+    "socials": {
+      "github": "https://github.com/tarikurrahmanbd",
+      "linkedin": "https://linkedin.com/in/tarikurrahman",
+      "twitter": "https://x.com/tarikurrahmanbd",
+      "facebook": "https://www.facebook.com/tarikurrahman",
+      "youtube": "https://www.youtube.com/@tarikurrahman"
+    }
+  }
+}
