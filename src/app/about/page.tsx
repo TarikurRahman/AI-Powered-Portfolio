@@ -152,7 +152,7 @@ export default function About() {
               >
                 <div className="aspect-square rounded-3xl overflow-hidden glass p-4">
                   <img
-                    src="/Nafij-Islam.png"
+                    src="/Tarikur-Rahman.png"
                     alt="Tarikur Rahman - Full-Stack Developer, Shopify & Bubble.io Expert"
                     className="w-full h-full object-cover rounded-2xl"
                   />

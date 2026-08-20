@@ -7,6 +7,13 @@ const Loader = ({ onFinish }) => {
   const lineRef = useRef(null);
 
   useEffect(() => {
+    let hasFinished = false;
+    const finishLoading = () => {
+      if (hasFinished) return;
+      hasFinished = true;
+      onFinish();
+    };
+
     const tl = gsap.timeline({
       defaults: { ease: "power3.out" },
       onComplete: () => {
@@ -14,10 +21,12 @@ const Loader = ({ onFinish }) => {
           opacity: 0,
           duration: 0.35,
           ease: "power2.inOut",
-          onComplete: onFinish,
+          onComplete: finishLoading,
         });
       },
     });
+
+    const fallbackTimer = window.setTimeout(finishLoading, 2500);
 
     // Text entrance
     tl.fromTo(
@@ -45,6 +54,11 @@ const Loader = ({ onFinish }) => {
         yoyo: true,
         repeat: 1,
       });
+
+    return () => {
+      window.clearTimeout(fallbackTimer);
+      tl.kill();
+    };
   }, [onFinish]);
 
   return (

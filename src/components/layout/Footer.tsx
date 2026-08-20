@@ -4,13 +4,13 @@ import Link from "next/link";
 import { Github, Linkedin, Twitter, Mail, Youtube, Facebook, MessageCircle } from "lucide-react";
 
 const socialLinks = [
-  { icon: Github, href: "https://github.com/tarikurrahmanbd", label: "GitHub" },
+  { icon: Github, href: "https://github.com/tarikurrahman", label: "GitHub" },
   { icon: Linkedin, href: "https://linkedin.com/in/tarikurrahman", label: "LinkedIn" },
-  { icon: Twitter, href: "https://x.com/tarikurrahmanbd", label: "Twitter" },
-  { icon: Facebook, href: "https://www.facebook.com/tarikurrahman", label: "Facebook" },
-  { icon: Youtube, href: "https://www.youtube.com/@tarikurrahman", label: "YouTube" },
-  { icon: MessageCircle, href: "https://wa.me/8801633003462", label: "WhatsApp" },
-  { icon: Mail, href: "mailto:tarikurrahman2008@gmail.com", label: "Email" },
+  { icon: Twitter, href: "https://x.com/tarikurrahman08", label: "Twitter" },
+  { icon: Facebook, href: "https://www.facebook.com/tarikurrahman08", label: "Facebook" },
+  { icon: Youtube, href: "https://www.youtube.com/", label: "YouTube" },
+  { icon: MessageCircle, href: "https://wa.me/8801819986598", label: "WhatsApp" },
+  { icon: Mail, href: "mailto:tarikurrahman92@gmail.com", label: "Email" },
 ];
 
 export const Footer = () => {

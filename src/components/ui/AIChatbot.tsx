@@ -120,7 +120,7 @@ export default function AIChatbot() {
         {
           id: Date.now().toString(),
           role: "assistant",
-          content: "Sorry, I had trouble connecting. Please try again or contact Tarikur directly at tarikurrahman2008@gmail.com.",
+          content: "Sorry, I had trouble connecting. Please try again or contact Tarikur directly at tarikurrahman92@gmail.com.",
         },
       ]);
     } finally {

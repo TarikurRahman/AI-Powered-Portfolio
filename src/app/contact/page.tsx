@@ -11,7 +11,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { useToast } from "@/hooks/use-toast";
 
 const contactInfo = [
-  { icon: Mail, label: "Email", value: "tarikurrahman2008@gmail.com", href: "mailto:tarikurrahman2008@gmail.com" },
+  { icon: Mail, label: "Email", value: "tarikurrahman92@gmail.com", href: "mailto:tarikurrahman92@gmail.com" },
   { icon: MapPin, label: "Location", value: "Dhaka, Bangladesh", href: "#" },
   { icon: Phone, label: "Phone", value: "+8801633003462", href: "tel:+8801633003462" },
 ];
@@ -22,7 +22,7 @@ const socialLinks = [
   { icon: Twitter, href: "https://x.com/tarikurrahmanbd", label: "Twitter" },
   { icon: Facebook, href: "https://www.facebook.com/tarikurrahman", label: "Facebook" },
   { icon: Youtube, href: "https://www.youtube.com/@tarikurrahman", label: "Youtube" },
-  { icon: Mail, href: "mailto:tarikurrahman2008@gmail.com", label: "Email" },
+  { icon: Mail, href: "mailto:tarikurrahman92@gmail.com", label: "Email" },
 ];
 
 export default function Contact() {
@@ -36,7 +36,7 @@ export default function Contact() {
     const formData = new FormData(e.currentTarget);
     
     // Web3Forms Access Key is set here
-    formData.append("access_key", "cb103f91-951a-4ea7-aaf3-8c621919551e");
+    formData.append("access_key", "71c361c1-3ee9-4436-9ea5-b7aa8d9edb6b");
 
     try {
       const response = await fetch("https://api.web3forms.com/submit", {
